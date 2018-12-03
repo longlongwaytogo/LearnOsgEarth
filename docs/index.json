@@ -1,0 +1,21 @@
+{
+"contains": [
+		{
+			"group": "GIS学习资料",
+			"contains": [
+				{
+					"subject": "GIS学习资料",
+					"mdlink": "GIS学习资料"
+				}
+			 ]
+        },
+			"group": "GIS知识笔记",
+			"contains": [
+				{
+					"subject": "GIS知识笔记",
+					"mdlink": "definecss"
+				}
+			 ]
+        }
+    ]
+}
