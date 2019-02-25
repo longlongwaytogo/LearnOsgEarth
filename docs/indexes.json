@@ -8,15 +8,15 @@
 					"mdlink": "GIS学习资料"
 				}
 			 ]
-        },
+        	},
 		{
 			"group": "GIS知识笔记",
 			"contains": [
 				{
 					"subject": "GIS知识笔记",
-					"mdlink": "definecss"
+					"mdlink": "GIS知识笔记"
 				}
 			 ]
-        }
+      		 }
     ]
 }
