@@ -1,0 +1,9 @@
+<map name="Virtual Planet Builder model" type="geocentric"
+version="2">
+<image name="imagery layer 0" driver="vpb">
+<url>E:/project/osg/OpenSceneGraph-Data-3.4.0/put4.osgb</url>
+</image>
+<heightfield name="dem" driver="vpb">
+<url>E:/project/osg/OpenSceneGraph-Data-3.4.0/put4.osgb</url>
+</heightfield>
+</map>
